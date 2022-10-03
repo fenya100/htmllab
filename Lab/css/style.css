@@ -1,0 +1,35 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #c76363;
+}
+.firstimg {
+position: absolute ;
+padding: 10px;
+height: 75px;
+width: 100px;
+}
+
+.navigation {
+position: absolute;
+text-indent: 10px;
+display: flex;	
+text-align: center;
+margin-top: 10px;
+margin-left: 150px;
+justify-content: space-between;
+}
+
+.main {
+	display: flex;
+	position: absolute;
+	margin-top: 200px;
+	margin-left: 15px;
+}
+.main1 {
+	margin-left: 15px;
+	font-weight: normal;
+	font-size: 18px;
+	width: 750px;
+	font-family: RobotoRegular, sans-serif;
+}
